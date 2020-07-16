@@ -5,7 +5,7 @@ Traditional linear regression models that leverage the Singular Value Decomposit
 
 The script RobustSIMPLS_1 corresponds to the first numerical experiment presented in our paper. This script can receive data in the form of an excel spreadsheet. Prior to model construction, the data is split into training data and test data. Training data informs the model which is then evaluated using the test data.
 
-The script RobustSIMPLS_2 corresponds to the second numerical experiment in which Robust SIMPLS is compared to other prediction methods. This script requires an additional excel spreadsheet as input that contains predictions produced by a neural network for comparison to Robust SIMPLS. In our paper, we the readily available Tensorflow library in Python to construct/ train our neural network and make these predictions.
+The script RobustSIMPLS_2 corresponds to the second numerical experiment in which Robust SIMPLS is compared to other prediction methods. This script requires an additional excel spreadsheet as input that contains predictions produced by a neural network for comparison to Robust SIMPLS. In our paper, we used the readily available Tensorflow library in Python to construct/ train our neural network and make these predictions.
 
 
 ## References
