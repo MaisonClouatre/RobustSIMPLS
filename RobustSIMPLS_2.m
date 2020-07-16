@@ -155,8 +155,6 @@ YActual = A((end-n)-(N+1):(end-n),41:end);      % Keep this to plot later
 [~,cols] = size(A);
 Atilde = zeros(1,cols);
 for i=1:cols
-%     Atilde(i) = mean(A(:,i));
-    
     Atilde(i) = mean(A((end-n)-(N+1):(end-n)-1,i));
 end
 
