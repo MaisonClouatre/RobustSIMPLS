@@ -12,4 +12,4 @@ M. Clouatre, E. Smith, S. Coogan, M. Thitsa, “Robust Data-Driven System Identi
 ## References
 Source code for RPCA is adapted from:
 
-S.L. Brunton and J.N. Kutz, Sparsity and Compressed Sensing. In: Data-driven  science  and  engineering: Machine  learning,  dynamical  systems,  and  control. Cambridge University Press, 2019. p. 107--109.
+S.L. Brunton and J.N. Kutz, "Sparsity and Compressed Sensing." In: Data-driven  science  and  engineering: Machine  learning,  dynamical  systems,  and  control. Cambridge University Press, 2019. p. 107--109.
