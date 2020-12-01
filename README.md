@@ -11,10 +11,14 @@ M. Clouatre, E. Smith, S. Coogan, M. Thitsa, “Robust Data-Driven System Identi
 
 ## References
 RPCA:
+
 Candès, Emmanuel J., et al. "Robust principal component analysis?." Journal of the ACM (JACM) 58.3 (2011): 1-37.
 
+
 Inductive RPCA:
+
 Bao, Bing-Kun, et al. "Inductive robust principal component analysis." IEEE Transactions on Image Processing 21.8 (2012): 3794-3800.
+
 
 The source code pertaining to RPCA is adapted from:
 
